@@ -1,0 +1,12 @@
+[
+  {
+    "beneficiary": "zzz",
+    "email": "yehadjialexis@gmail.com",
+    "iban": "ihuihkk",
+    "amount": 200,
+    "executionDate": "2024-10-20",
+    "reason": "zzz",
+    "recurring": "non",
+    "confirmDetails": true
+  }
+]
