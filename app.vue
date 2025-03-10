@@ -20,7 +20,7 @@ onMounted(async () => {
 });
 
 useHead({
-  title: 'CITIBANK',
+  title: 'BANQUE POSTALE',
   // link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
 })
 </script>
