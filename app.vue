@@ -20,7 +20,7 @@ onMounted(async () => {
 });
 
 useHead({
-  title: 'BANQUE POSTALE',
+  title: 'ALBANK',
   // link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
 })
 </script>
