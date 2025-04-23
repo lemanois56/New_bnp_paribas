@@ -1,7 +1,7 @@
 // src/data/bankData.js
 
 // Solde du compte courant ajouté
-export const checkingAccountBalance = 5000; // Exemple de solde compte courant
+export const checkingAccountBalance = 12000; // Exemple de solde compte courant
 export const logoUrl = "https://www.lebrandcenter.lapostegroupe.com/secure/uploads/document/vignette/1646129166_20220223_lbp_logo_fdclair_rvb_360x260-621dd49606c26.jpg"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
