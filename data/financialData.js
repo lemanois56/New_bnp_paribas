@@ -1,30 +1,30 @@
 // src/data/bankData.js
 
 // Solde du compte courant ajouté
-export const checkingAccountBalance = 12000; // Exemple de solde compte courant
+export const checkingAccountBalance = 42000; // Exemple de solde compte courant
 export const logoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCbtQzDdC1tAgRO3V-y9Xj6nKVbelZFC6UQ&s"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
 export const loanBalance = 100000; // Exemple de solde de prêt
 export const primaryColor = "rgb(248, 107, 47)"; // Exemple de solde de prêt
 
-export const accountBalance = "12000,00"; // Solde du compte
+export const accountBalance = "42000,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
-export const creditCardBalance = -2500.00; // Exemple de solde carte de crédit
-export const creditCardLimit = 5000.00; // Limite carte de crédit
+export const creditCardBalance = 0; // Exemple de solde carte de crédit
+export const creditCardLimit = 0; // Limite carte de crédit
 
 export const savingsBalance = 12000; // Solde épargne
-export const savingsGrowth = 5.2; // Croissance épargne en pourcentage
+export const savingsGrowth = ; // Croissance épargne en pourcentage
 
 export const fullname = "MONGIS-COUTURIER VIVIANE";
 
 // Transactions récentes mises à jour
 export const recentTransactions = [
     // { date: '2023-10-05', description: 'Supermarché Carrefour', amount: -150.30, type: 'Débit' },
-    { date: '2024-10-22', description: 'Virement reçu', amount: 12000, type: 'Crédit' },
-  //  { date: '2024-10-22', description: 'Virement reçu Meta Trader 5', amount: 1187000, type: 'Crédit' },
+    { date: '2025-04-23', description: 'Virement reçu', amount: 12000, type: 'Crédit' },
+    { date: '2025-04-25', description: 'Virement reçu', amount: 30000, type: 'Crédit' },
   //  { date: '2023-10-03', description: 'Paiement en ligne Amazon', amount: -89.99, type: 'Débit' },
     // { date: '2023-10-01', description: 'Salaire', amount: 2500.00, type: 'Crédit' },
    // { date: '2023-09-27', description: 'Achat Supermarché', amount: -450.00, type: 'Débit' },
