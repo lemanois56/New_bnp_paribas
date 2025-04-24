@@ -15,7 +15,7 @@ export const targetProgress = 48; // Progression en %
 export const creditCardBalance = 0; // Exemple de solde carte de crédit
 export const creditCardLimit = 0; // Limite carte de crédit
 
-export const savingsBalance = 12000; // Solde épargne
+export const savingsBalance = 42000; // Solde épargne
 export const savingsGrowth = 0; // Croissance épargne en pourcentage
 
 export const fullname = "MONGIS-COUTURIER VIVIANE";
