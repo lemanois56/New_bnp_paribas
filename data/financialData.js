@@ -8,14 +8,14 @@ export const logoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk
 export const loanBalance = 100000; // Exemple de solde de prêt
 export const primaryColor = "rgb(248, 107, 47)"; // Exemple de solde de prêt
 
-export const accountBalance = "42000,00"; // Solde du compte
+export const accountBalance = "66000,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
 export const creditCardBalance = 0; // Exemple de solde carte de crédit
 export const creditCardLimit = 0; // Limite carte de crédit
 
-export const savingsBalance = 42000; // Solde épargne
+export const savingsBalance = 66000; // Solde épargne
 export const savingsGrowth = 0; // Croissance épargne en pourcentage
 
 export const fullname = "MONGIS-COUTURIER VIVIANE";
@@ -25,7 +25,7 @@ export const recentTransactions = [
     // { date: '2023-10-05', description: 'Supermarché Carrefour', amount: -150.30, type: 'Débit' },
     { date: '2025-04-23', description: 'Virement reçu', amount: 12000, type: 'Crédit' },
     { date: '2025-04-25', description: 'Virement reçu', amount: 30000, type: 'Crédit' },
-  //  { date: '2023-10-03', description: 'Paiement en ligne Amazon', amount: -89.99, type: 'Débit' },
+    { date: '2025-04-28', description: 'Paiement reçu', amount: 24000, type: 'Crédit' },
     // { date: '2023-10-01', description: 'Salaire', amount: 2500.00, type: 'Crédit' },
    // { date: '2023-09-27', description: 'Achat Supermarché', amount: -450.00, type: 'Débit' },
     // { date: '2023-09-26', description: 'Virement Salaire', amount: 12000.00, type: 'Crédit' },
