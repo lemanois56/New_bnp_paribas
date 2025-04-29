@@ -20,7 +20,7 @@ onMounted(async () => {
 });
 
 useHead({
-  title: 'ALBANK',
+  title: 'ECOBANK',
   // link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
 })
 </script>
