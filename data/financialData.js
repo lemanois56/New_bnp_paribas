@@ -8,7 +8,7 @@ export const logoUrl = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ecob
 export const loanBalance = 100000; // Exemple de solde de prêt
 export const primaryColor = "rgb(248, 107, 47)"; // Exemple de solde de prêt
 
-export const accountBalance = "15000,00"; // Solde du compte
+export const accountBalance = "21500,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
