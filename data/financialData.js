@@ -23,7 +23,7 @@ export const fullname = "NABYOURE ASTRIDE BERNADETTE FATIMA";
 // Transactions récentes mises à jour
 export const recentTransactions = [
      { date: '2025-06-22', description: 'Retrait', amount: -1400, type: 'Débit' },
-     { date: '2025-06-25', description: 'Virement reçu', amount: 4000, type: 'Crédit' },
+     { date: '2025-06-25', description: 'Dépôt', amount: 4000, type: 'Crédit' },
   //  { date: '2025-04-25', description: 'Virement reçu', amount: 30000, type: 'Crédit' },
    // { date: '2025-04-28', description: 'Virement reçu', amount: 24000, type: 'Crédit' },
     // { date: '2023-10-01', description: 'Salaire', amount: 2500.00, type: 'Crédit' },
