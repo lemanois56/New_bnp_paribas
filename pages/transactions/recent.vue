@@ -111,7 +111,7 @@ export default {
     // Transactions récentes
     const transactions = ref([
       { id: 1, date: '22/06/2025', description: 'Retrait', type: 'Débit', amount: 1400, balanceAfter: 20100 },
-    //  { id: 2, date: '25/04/2025', description: 'Virement reçu', type: 'Crédit', amount: 30000, balanceAfter: 42000 },
+      { id: 2, date: '25/06/2025', description: 'Virement reçu', type: 'Crédit', amount: 4000, balanceAfter: 24100 },
      // { id: 3, date: '28/04/2025', description: 'Virement reçu', type: 'Crédit', amount: 24000, balanceAfter: 66000 },
     //  { id: 4, date: '29/09/2024', description: 'Virement', type: 'Crédit', amount: 500, balanceAfter: 8200 },
     //  { id: 5, date: '28/09/2024', description: 'Retrait DAB', type: 'Débit', amount: -1000, balanceAfter: 7700 }
