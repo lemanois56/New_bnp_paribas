@@ -5,20 +5,20 @@ export const checkingAccountBalance = 42000; // Exemple de solde compte courant
 export const logoUrl = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ecobank_Logo_EN.png"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
-export const loanBalance = 100000; // Exemple de solde de prêt
+export const loanBalance = 34000; // Exemple de solde de prêt
 export const primaryColor = "rgb(248, 107, 47)"; // Exemple de solde de prêt
 
-export const accountBalance = "24100,00"; // Solde du compte
+export const accountBalance = "68450,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
 export const creditCardBalance = 0; // Exemple de solde carte de crédit
 export const creditCardLimit = 0; // Limite carte de crédit
 
-export const savingsBalance = 15000; // Solde épargne
+export const savingsBalance = 945000; // Solde épargne
 export const savingsGrowth = 0; // Croissance épargne en pourcentage
 
-export const fullname = "NABYOURE ASTRIDE BERNADETTE FATIMA";
+export const fullname = "BLANC Hervé Patrick Marie";
 
 // Transactions récentes mises à jour
 export const recentTransactions = [
