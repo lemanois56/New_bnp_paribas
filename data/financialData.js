@@ -2,7 +2,7 @@
 
 // Solde du compte courant ajouté
 export const checkingAccountBalance = 42000; // Exemple de solde compte courant
-export const logoUrl = "https://www.jmwl.ca/wp-content/uploads/2022/09/BNP-Paribas-Logo-2048x1152.png"; // Exemple de solde compte courant
+export const logoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcmIKfAmRplskyUQBWnEBWKoHZBMYluvEVXw&s"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
 export const loanBalance = 34000; // Exemple de solde de prêt
