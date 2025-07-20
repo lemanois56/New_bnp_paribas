@@ -19,7 +19,7 @@
         <div class="modal-body">
           <p>
             Votre compte est actuellement bloqué. Pour plus d'informations,
-            veuillez contacter le support client.
+            veuillez contacter votre conseiller financier.
           </p>
         </div>
         <div class="modal-footer">
