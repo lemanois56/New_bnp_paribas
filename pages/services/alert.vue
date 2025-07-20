@@ -9,7 +9,7 @@
       tabindex="-1"
       role="dialog"
       aria-labelledby="blockedAccountModalLabel"
-      aria-hidden="true"
+      aria-hidden="false"
   >
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
